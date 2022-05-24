@@ -1,4 +1,4 @@
-name: heroku-deploy-stop-start-destroy
+name: kkd 
 
 on:
   workflow_dispatch:
